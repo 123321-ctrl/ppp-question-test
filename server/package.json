@@ -1,0 +1,20 @@
+{
+  "name": "question-server",
+  "version": "1.0.0",
+  "description": "移动端答题服务器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs、express、mysql"
+  ],
+  "author": "1447625819@qq,com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1"
+  }
+}
